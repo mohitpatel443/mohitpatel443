@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @mohitpatel443
-- 👀 I’m interested in blockchain and solidity development ...
-- 🌱 I’m currently working on blockchain and solidity ...
-- 💞️ I’m looking to collaborate on companies that can smartly provide me training and job ...
-- 📫 How to reach me mohitpatel443@gmail.com...
+- 👋 Hi, myself Mohit Patel
+- 👀 P&D in blockchain and solidity development 
+- 🌱 currently working on blockchain and solidity 
+- 💞️ looking for the collab with the company or organization to share my ideas 
+- 📫 How to reach me mohitpatel443@gmail.com
 
 <!---
 mohitpatel443/mohitpatel443 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
